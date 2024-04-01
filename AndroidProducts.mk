@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2023-2024 The LineageOS Project
+#               2023 The crDroid Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

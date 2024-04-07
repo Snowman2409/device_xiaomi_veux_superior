@@ -17,4 +17,7 @@ git clone https://github.com/Positron-B/vendor_xiaomi_miuicamera.git vendor/xiao
 echo "Cloning hardware/xiaomi..."
 git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-21 hardware/xiaomi
 
+echo "Cloning ViPER4AndroidFX..."
+git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX.git packages/apps/ViPER4AndroidFX
+
 echo "Cloning done, Proceeding to Lunch..."

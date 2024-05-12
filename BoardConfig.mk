@@ -61,8 +61,7 @@ TARGET_SCREEN_DENSITY := 440
 # Filesystem
 TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/config.fs
 
-# Firmware
-include vendor/xiaomi/veux-firmware/BoardConfigVendor.mk
+
 
 # GNSS
 BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := default
